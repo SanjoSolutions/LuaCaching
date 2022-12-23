@@ -1,6 +1,4 @@
 ## Title: Caching
 ## Interface: 100002
-## Version: 1.0.0
 
-libs/Library/Library.lua
 Caching.lua
