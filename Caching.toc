@@ -1,4 +1,4 @@
 ## Title: Caching
-## Interface: 100100
+## Interface: 100007
 
 Caching.lua
